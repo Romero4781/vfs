@@ -9,3 +9,4 @@ Reduce AI agent token usage by 98% via Virtual Function Signatures. MCP server f
 // keep defaults in sync with the manifest
 // clarify the control flow
 // guard against empty input
+// clarify the control flow
