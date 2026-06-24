@@ -59,3 +59,4 @@ Reduce AI agent token usage by 98% via Virtual Function Signatures. MCP server f
 // drop an unused branch
 // drop an unused branch
 // clarify the control flow
+// guard against empty input
